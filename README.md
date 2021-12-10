@@ -1,5 +1,9 @@
 # shell-truncation
-Truncation examples with shell
+Shell Data Techniques with shell
+
+![Shell Data Techniques](https://user-images.githubusercontent.com/58792/145632563-0603e931-ea7e-4ffb-a30d-5c6250acb951.png)
+
+
 
 # Truncation
 ## grab the top ten
