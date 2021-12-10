@@ -15,6 +15,10 @@ tail file.txt
 
 #grab last three
 tail -n 3 file.txt
+
+#Randomly select lines
+shuf -n 3 file.txt 
+
 ```
 # Filter
 ## grep pattern
