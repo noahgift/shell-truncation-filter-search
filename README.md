@@ -1,7 +1,8 @@
 # shell-truncation
 Truncation examples with shell
 
-# grab the top ten
+# Truncation
+## grab the top ten
 
 ```bash
 head file.txt
